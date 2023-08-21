@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">The Notepad app allowed users to create, update, and delete notes. To manage the state of the application, I used React's built-in useState and useEffect hooks for saving session storage.</h3>
+<h3 align="center">The Notepad app allowed users to create, update, and delete notes. To manage the state of the application, I used React's built-in useState and useEffect hooks for saving session storage</h3>
 
 👨‍💻 Project available here: [https://mynoteappad.netlify.app](https://mynoteappad.netlify.app)
 
